@@ -1,0 +1,24 @@
+.brand-color {
+  color: #b45b35;
+}
+
+.title {
+  color: #224f61;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+  padding-top: 20px;
+}
+
+.underline {
+  height: 2px;
+  width: 150px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+
+.imgs {
+  width: 130px;
+  height: 130px;
+}
